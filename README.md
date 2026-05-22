@@ -3,8 +3,9 @@
 # Nombre del tema: Boodstrap v5
 
 # Arquitectura de la investigación:
-# -index.html: Es el documento principal con la UI y los componentes de ejemplo para la investigación.
+# -Untitled-1.html: Es el documento principal con la UI y los componentes de ejemplo para la investigación.
 # -README.md: Documento del repositorio con datos básicos para lograr entender las bases de la investigación.
+# -Carpeta de presentación: dentro contiene el archivo index.html que es el archivo de presentación en el que se hablará sobre la parte teorica del tema
 
 # Descripcion breve: En esta investigcion se muestra el uso de Boodstrap v5 como framework de diseño, tambien se analiza su arquitectura interna la cual esta basada en Flexbox, su funcionamiento matematico, rendimiento y un poco de sus librerías.
 
